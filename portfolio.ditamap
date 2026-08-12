@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Mein DITA-Portfolio</title>
+  <topicref href="konzept.dita"/>
+  <topicref href="aufgabe.dita"/>
+</map>

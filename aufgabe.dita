@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="aufgabe-dita">
+  <title>DITA-OT lokal ausführen</title>
+  <taskbody>
+    <steps>
+      <step><cmd>Terminal öffnen</cmd></step>
+      <step><cmd>In den Projektordner wechseln</cmd></step>
+      <step><cmd>Den <codeph>dita</codeph>-Befehl ausführen</cmd></step>
+    </steps>
+  </taskbody>
+</task>
