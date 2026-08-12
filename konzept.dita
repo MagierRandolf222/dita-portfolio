@@ -7,11 +7,9 @@
     Standardformat für strukturierte technische Dokumentation.</p>
 
     <section>
-      <title>Ausklappbarer Beispielabschnitt</title>
+      <title>Strukturierter Beispielabschnitt</title>
       <sectiondiv>
-        <p>Dieser Abschnitt zeigt, dass DITA-Inhalte im generierten
-        Webhelp-Output interaktiv auf- und zuklappbar dargestellt werden
-        können – ganz ohne selbst geschriebenes JavaScript.</p>
+        <p>Das hier ist ein cooler Text für einen Beispielabschnitt!</p>
       </sectiondiv>
     </section>
   </conbody>
